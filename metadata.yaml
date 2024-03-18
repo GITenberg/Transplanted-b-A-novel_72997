@@ -1,5 +1,8 @@
 _repo: Transplanted-b-A-novel_72997
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72997-h/images/cover.jpg
 creator:
   author:
     agent_name: Atherton, Gertrude Franklin Horn
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/263
     wikipedia: https://en.wikipedia.org/wiki/Gertrude_Atherton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72997#Transplanted-b-A-novel
 gutenberg_issued: '2024-02-20'
 gutenberg_type: Text
 identifiers:
